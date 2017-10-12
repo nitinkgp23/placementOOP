@@ -1,0 +1,4 @@
+Google:nitin:US:Software:4:1300000
+Microsoft:nitin:India:ML:3:1300000
+Amazon:nitin:London:Data Science:1:1600000
+uber:nitin:us:cab driver:3:2:1000000
